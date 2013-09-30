@@ -1,0 +1,19 @@
+Here is the parts list that I used at NEWARK.COM  I suggest you get the same parts to assure success and not have compatibility problems.
+
+1 - MMSZ5227B-V-GS08 - ZENER DIODE; Zener Voltage Vz Typ:3.6V; Power Dissipation Pd:500mW; Operating Temperature Min:-55°C; Operating Temperature Max:150°C; Diode Case Style:SOD-123; No. of Pins:2 
+
+1 - MC1206S4F2000T5E - RESISTOR, THICK FILM, 200 OHM, 250mW, 1%; Product Range:MULTICOMP - MC Series; Resistance:200ohm; Power Rating:250mW; Resistance Tolerance:± 1%; Resistor Case Style:1206 [3216 Metric]; Resistor Element Type:Thick Film; No. of Pins:2
+
+1 - NCP1402SN33T1G -  IC, PFM STEP-UP REGULATOR, 5-SOT-23; Primary Input Voltage:5.5V; No. of Outputs:1; Output Voltage:3.3V; Output Current:200mA; No. of Pins:5; Operating Temperature Min:-40°C; Operating Temperature Max:85°C; MSL:-; Supply Voltage:0.8V
+
+1 - BSS138LT1G - N CHANNEL MOSFET, 50V, 200mA SOT-23; Transistor Polarity:N Channel; Continuous Drain Current Id:200mA; Drain Source Voltage Vds:50V; On Resistance Rds(on):3.5ohm; Rds(on) Test Voltage Vgs:5V; Threshold Voltage Vgs Typ:1.5V
+
+1 - CBC3225T470MR - POWER INDUCTOR, 47UH, 320MA, 20%; Product Range:TAIYO YUDEN - CB Series; Inductance:47µH; Inductance Tolerance:± 20%; Inductor Case Style:1210 [3225 Metric]; Self Resonant Frequency Min:10MHz; DC Resistance Max:0.67ohm; No. of Pins:2
+
+1 - MC0125W1206110K - RESISTOR, THICK FILM, 10KOHM, 125mW, 1%; Product Range:MULTICOMP - MC Series; Resistance:10kohm; Power Rating:125mW; Resistance Tolerance:± 1%; Resistor Case Style:1206 [3216 Metric]; Resistor Element Type:Thick Film; No. of Pins:2
+
+1 - 293D686X9010D2TE3 - CAPACITOR TANT, 68UF 10V, 0.7 OHM, 0.1, 7343-31; Product Range:VISHAY SPRAGUE - 293 Series; Capacitance:68µF; Capacitance Tolerance:± 10%; Voltage Rating:10V; Capacitor Case Style:2917 [7343 Metric]; Manufacturer Size Code:D
+
+2 - BAT54T1G - SCHOTTKY RECTIFIER, 200mA, 30V, SOD-123; Diode Type:Schottky; Diode Configuration:Single; Repetitive Reverse Voltage Vrrm Max:30V; Forward Current If(AV):200mA; Forward Voltage VF Max:320mV; Reverse Recovery Time trr Max:5ns
+
+1 - C503C-WAN-CBADB151 - LED, COOL WHITE, 5MM, 46.1CD; Bulb Size:5mm; LED Color:Cool White; Luminous Intensity:46.1cd; Viewing Angle:15°; Forward Current If:30mA; Forward Voltage:3.2V; LED Mounting:Through Hole; Lens Shape:Round; CCT:9000K; No. of Pins:2
