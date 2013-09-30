@@ -7,7 +7,11 @@ The circuit takes incoming power from the solar cell, voltage limited by a zener
 Files included in this repository:
 
 README.md - This file your reading
+
 schematic.jpg - Schematic in pictorial form for reference
+
+parts list.txt - List of components to order on NEWARK.COM
+
 Infinity Sun Jar V2.zip - Gerber files
 
 If you would like to order a few of these boards to play with, just upload the Infinity Sun Jar V2.zip file to oshpark.com and order the boards in multiples of 3.  Be advised as most of this circuit is surface mounted components, the only through hole components are the supercapacitor and the LED.
