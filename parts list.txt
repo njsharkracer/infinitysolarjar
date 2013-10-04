@@ -17,3 +17,19 @@ Here is the parts list that I used at NEWARK.COM  I suggest you get the same par
 2 - BAT54T1G - SCHOTTKY RECTIFIER, 200mA, 30V, SOD-123; Diode Type:Schottky; Diode Configuration:Single; Repetitive Reverse Voltage Vrrm Max:30V; Forward Current If(AV):200mA; Forward Voltage VF Max:320mV; Reverse Recovery Time trr Max:5ns
 
 1 - C503C-WAN-CBADB151 - LED, COOL WHITE, 5MM, 46.1CD; Bulb Size:5mm; LED Color:Cool White; Luminous Intensity:46.1cd; Viewing Angle:15°; Forward Current If:30mA; Forward Voltage:3.2V; LED Mounting:Through Hole; Lens Shape:Round; CCT:9000K; No. of Pins:2
+
+I use shell solar CIS solar cells that I find on ebay.  The ratings are:
+MPP - 3.2v
+Open Circuit Voltage - 4.3v
+MIA - 100ma
+Feel free to use what you can find close to those settings, just don't go over 100ma charging rate or you'll risk blowing the schottky blocking diode and the zener voltage regulator.
+
+You can order the 350F supercapacitor from mouser here:
+
+http://www.mouser.com/ProductDetail/Ioxus/RSC2R7357SR/?qs=sGAEpiMZZMuDCPMZUZ%252bYl3fm1KlEjTO%2fLfnm5UMu%2ft0%3d
+
+or if that link doesn't work in the future use mouser's search for:
+
+Ioxus RSC2R7357SR
+
+You can also find 500F supercapacitors on aliexpress.com but you'll have to do some hunting for them.  I'm not going to bother placing a link to them as they periodically change links.
