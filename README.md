@@ -7,12 +7,8 @@ The circuit takes incoming power from the solar cell, voltage limited by a zener
 Files included in this repository:
 
 README.md - This file your reading
-
 schematic.jpg - Schematic in pictorial form for reference
-
-parts list.txt - List of components to order on NEWARK.COM
-
-Infinity Sun Jar V2.zip - Gerber files
+Infinity Sun Jar V2.0.2.zip - Gerber files
 
 If you would like to order a few of these boards to play with, just upload the Infinity Sun Jar V2.zip file to oshpark.com and order the boards in multiples of 3.  Be advised as most of this circuit is surface mounted components, the only through hole components are the supercapacitor and the LED.
 
@@ -22,3 +18,8 @@ This is my 2nd Open Source Hardware Circuit.  It is free for anyone to use, just
 [pledgie]: http://www.pledgie.com/campaigns/22214
 
 Also follow my other electronics projects on my YouTube channel:  www.youtube.com/njsharkracer
+
+Update 4-16-2014
+
+I have just uploaded V2.0.2.zip as a fix.  There was a short between the trace that goes between L1 and U1 with the positive through hole for the Supercapacitor.
+Also uploaded is Solar Jar 2.0 Fix.PDF to detail the fix for people who have already ordered boards on the older v2.0 schematic and gerber files.
